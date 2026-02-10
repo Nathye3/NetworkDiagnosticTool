@@ -1,0 +1,4 @@
+Network Health Score System adalah aplikasi berbasis GUI
+yang menganalisis kondisi jaringan menggunakan
+ping, DNS lookup, dan pengecekan port,
+kemudian menghasilkan skor kesehatan jaringan.
